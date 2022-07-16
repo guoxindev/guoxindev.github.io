@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap');
+*{
+  font-family: 'Archivo Narrow', sans-serif;
+  color:white;
+}
+body {
+  background-color: #33322d;
+}
+.title{
+  font-size: 1.8em;
+}
+.note{
+  padding-left: 1.6em;
+  font-style: italic;
+}
+.linfo{
+  font-size: 92%;
+}
+p{
+  margin: 0.5em 0;
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+.dbutton{
+  margin: 5px;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
