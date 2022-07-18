@@ -1,7 +1,8 @@
 setTimeout(() => {
     console.clear()
-}, 5000);
-function main(call,ext1){
+}, 1500);
+function main(call){
+
     if (call=="rc"){
         window.location.href=go
     }
