@@ -24,13 +24,16 @@ p{
   margin-inline-start: 0px;
   margin-inline-end: 0px;
 }
-
+.downbutton{
+display: flex;
+}
 .dbutton{
+
   margin: 5px;
-  background-color: #4CAF50; /* Green */
+  background-color: #70009c; /* Green */
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 9px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
