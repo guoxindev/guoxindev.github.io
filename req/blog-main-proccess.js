@@ -6,6 +6,6 @@ function main(call,ext1){
         window.location.href=go
     }
     if(call=="404"){
-        document.getElementById("404").innerHTML="Location "+"["+location.pathname+"]"+"is not found on the server"
+        document.getElementById("404").innerHTML="Location "+"["+location.pathname+"]"+"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    is not found on the server"
     }
 }
